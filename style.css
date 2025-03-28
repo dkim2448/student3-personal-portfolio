@@ -302,7 +302,11 @@ footer .socials i {
     }
 
     .home {
-        padding: 10px 40px;
+        padding: 10px 20px;
+    }
+    
+    .home .image img {
+        width: 300px;
     }
 
     .experience {

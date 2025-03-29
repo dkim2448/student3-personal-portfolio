@@ -99,6 +99,11 @@ nav {
 
 .experience h5 {
     font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+    text-decoration-color: #1e40af;
+    text-decoration-thickness: 4px;
 }
 
 .experience .item {

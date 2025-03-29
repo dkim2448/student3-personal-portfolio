@@ -1,6 +1,6 @@
 # alex murillo - personal portfolio
 
-[link to website]()
+[link to website](https://alexm-personal-port.vercel.app/)
 
 ## about  
 responsive portfolio highlighting projects and skills of a cu denver computer science student. designed for clarity, accessibility, and a modern feel.

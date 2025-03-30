@@ -3,7 +3,7 @@
 [link to website](https://alexm-personal-port.vercel.app/)
 
 ## about  
-responsive portfolio highlighting projects and skills for a cu denver computer. designed for clarity, accessibility, and a modern feel.
+responsive portfolio highlighting projects and skills for a cu denver student. designed for clarity, accessibility, and a modern feel.
 
 ## tech stack  
 - html5  
